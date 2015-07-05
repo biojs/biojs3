@@ -2,11 +2,18 @@
 
 <img width="50%" alt="Web components logo" src="http://webcomponents.org/img/logo.svg" />
 
-Yeah, BioJS is moving to have every module as Web Component with Custom Elements.
+Yeah, BioJS is moving forward to have every module as Web Component with Custom Elements!
 
-This means
+What are Web Components?
+------------------------
+
+"Web Components are a set of standards currently being produced by Google engineers as a W3C specification that allow for the creation of reusable widgets or components in web documents and web applications. The intention behind them is to bring component-based software engineering to the World Wide Web." (Wikipedia)
+
+Why Web Components?
+-------------------
+
 * __automatic encapsulation__ thanks to the __shadow DOM__ (no more problems with components modifying your site, id conflicts, css conflicts or problems to create multiple instances of a components)
-* __Custom DOM Elements__ - imagine to use __only HTML__ to include a BioJS component into your website
+* __Custom DOM Elements__ (new HTML elements e.g. just for biological data)
 
 Everyone is familiar with HTML and can add a `<button>` DOM element to their website. Why not let them add a `<biojs-msa>` element?
 
@@ -37,12 +44,12 @@ Have a look at the presentations listed at [webcomponents.org](http://webcompone
 * [Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) by Eric Bidelman (@ebidel)
 * [A future called Web Components](https://vimeo.com/97308701) by Zeno Rocha (@zenorocha)
 
-## Heavy development and brainstorming is happening here  - you are very welcomed to help us
-
 How to help?
 ------------
 
-* you have an idea, proposal -> open an issue
-* you want to port your (or a) component to polymer -> go for it & discuss your progress with us here :)
-* have a look at our [roadmap](https://github.com/biojs/biojs3/wiki) (at the wiki) & get inspired
-* you haven't found a task yet, browse through the open issues or ping us on [gitter](https://gitter.im/biojs/biojs)
+Currently there is development and brainstorming is happening at github.com/biojs/biojs3
+
+* If you have an idea, proposal -> don’t hesitate to open an issue
+* IF you want to port your (or a) component to polymer -> go for it & discuss your progress with us here :)
+* H ave a look at our [roadmap](https://github.com/biojs/biojs3/wiki) (at the wiki) & get inspired
+* If you haven't found a task yet, browse through the open issues or ping us on [gitter](https://gitter.im/biojs/biojs)
