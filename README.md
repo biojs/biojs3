@@ -1,5 +1,7 @@
 # Draft of BioJS 3: Web components
 
+<img width="50%" alt="Web components logo" src="http://webcomponents.org/img/logo.svg" />
+
 Yeah, BioJS is moving to have every module as Web Component with Custom Elements.
 
 This means
