@@ -47,9 +47,9 @@ Have a look at the presentations listed at [webcomponents.org](http://webcompone
 How to help?
 ------------
 
-Currently there is development and brainstorming is happening at github.com/biojs/biojs3
+Currently there is development and brainstorming is happening [here at github](https://github.com/biojs/biojs3)
 
 * If you have an idea, proposal -> don’t hesitate to open an issue
 * IF you want to port your (or a) component to polymer -> go for it & discuss your progress with us here :)
-* H ave a look at our [roadmap](https://github.com/biojs/biojs3/wiki) (at the wiki) & get inspired
+* Have a look at our [roadmap](https://github.com/biojs/biojs3/wiki) (at the wiki) & get inspired
 * If you haven't found a task yet, browse through the open issues or ping us on [gitter](https://gitter.im/biojs/biojs)
