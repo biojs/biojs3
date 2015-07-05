@@ -44,6 +44,11 @@ Have a look at the presentations listed at [webcomponents.org](http://webcompone
 * [Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) by Eric Bidelman (@ebidel)
 * [A future called Web Components](https://vimeo.com/97308701) by Zeno Rocha (@zenorocha)
 
+What is the roadmap?
+---------------------
+
+Our roadmap is work in progress, please look at our [github wiki](https://github.com/biojs/biojs3/wiki).
+
 How to help?
 ------------
 
