@@ -1,10 +1,10 @@
 # Draft of BioJS 3: Web components
 
-[![Join the chat at https://gitter.im/biojs/biojs3](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/biojs/biojs3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <img width="50%" alt="Web components logo" src="http://webcomponents.org/img/logo.svg" />
 
 Yeah, BioJS is moving forward to have every module as Web Component with Custom Elements!
+ 
+[![Join the chat at https://gitter.im/biojs/biojs3](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/biojs/biojs3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 What are Web Components?
 ------------------------
