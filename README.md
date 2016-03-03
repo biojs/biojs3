@@ -6,6 +6,8 @@ Yeah, BioJS is moving forward to have every module as Web Component with Custom 
  
 [![Join the chat at https://gitter.im/biojs/biojs3](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/biojs/biojs3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+As an overview you might want to watch _[A jump through web wormholes](https://www.youtube.com/watch?v=zja0ghmVqjw) by [@greenify](github.com/greenify) that givens an introduction why Web Components are the future for BioJS.
+
 What are Web Components?
 ------------------------
 
